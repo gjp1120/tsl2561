@@ -28,3 +28,6 @@ tags:
   - sensor
 
 manifest_version: 2017-09-29
+
+cflags:
+  - "-Wno-error"
